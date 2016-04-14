@@ -6,9 +6,6 @@
 - [Books](#books)
 
 
-----------
-
-
 ## Books
 
 ### Biology
