@@ -9,12 +9,11 @@
 
 ## Web Technologies
 ### Specification
-[HTML: The Living Standard - Specification for Web developers - WHATWG](https://developers.whatwg.org/)
-[HTML: The Living Standard - Full Specification - WHATWG](https://html.spec.whatwg.org/)
-[DOM: The Living Standard - WHATWG](https://dom.spec.whatwg.org/)
-
-[HTML: The Living Standard - Specification for Web developers - WHATWG](https://developers.whatwg.org/)V
-https://www.w3.org/TR/html5/
+[HTML - Specification for Web developers - WHATWG](https://developers.whatwg.org/)
+[HTML - Full Specification - WHATWG](https://html.spec.whatwg.org/)
+[DOM - WHATWG](https://dom.spec.whatwg.org/)
+[HTML5 - W3C](https://www.w3.org/TR/html5/)
+[HTML 5.1 - W3C](https://www.w3.org/TR/html51/)
 
 ## Books
 
