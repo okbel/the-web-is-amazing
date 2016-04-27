@@ -4,11 +4,32 @@
 
 ## Table of Contents
 - [Web Technologies](#web-technologies)
-  - [HTML Specification](#html-specification)
+  - [Specifications](#specifications)
+  - [Guidelines](#guidelines)
 - [Books](#books)
 
 ## Web Technologies
-### HTML Specification
+### Guidelines
+#### JavaScript
+[JavaScript Style Guide by jQuery Foundation](https://contribute.jquery.org/style-guide/js/)
+
+[Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
+
+[Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js/)
+
+[JavaScript Standard Style ](https://github.com/feross/standard)
+
+[Node.js Style Guide](https://github.com/felixge/node-style-guide)
+
+[Code Conventions for the JavaScript Programming Language by Douglas Crockford](http://javascript.crockford.com/code.html)
+
+[npm's "funny" coding style](https://docs.npmjs.com/misc/coding-style)
+
+[JavaScript Coding Standards - Wordpress](https://make.wordpress.org/core/handbook/best-practices/coding-standards/javascript/)
+
+
+### Specifications
+#### HTML
 [HTML - Specification for Web developers - WHATWG](https://developers.whatwg.org/)
 
 [HTML - Full Specification - WHATWG](https://html.spec.whatwg.org/)
@@ -20,12 +41,12 @@
 ## Books
 
 ### Biology
-- [ ] Genome *by Mark Ridley*
-- [ ] The Selfish Gene *by Richard Dawkins*
+- [ ] [Genome](http://amzn.com/0060894083) *by Mark Ridley*
+- [ ] [The Selfish Gene](http://amzn.com/0199291152) *by Richard Dawkins*
 
 ### Computer Science
-- [x] Code Complete *by Steve McConnell*
-- [x] The Pragmatic Programmer *by Andrew Hunt, Dave Thomas*
+- [x] [Code Complete](http://amzn.com/0735619670) *by Steve McConnell*
+- [x] [The Pragmatic Programmer](http://amzn.com/020161622X) *by Andrew Hunt, Dave Thomas*
 
 
 
