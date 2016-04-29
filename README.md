@@ -6,6 +6,12 @@
 - [Web Technologies](#web-technologies)
   - [Specifications](#specifications)
   - [Guidelines](#guidelines)
+  - [JavaScript](#javascript)
+    - [Frontend Development](#frontend-development)
+    - [Backend Development](#backend-development)
+    - [Conferences](#conferences)
+    - [People](#people)
+      
 - [Books](#books)
 
 ## Web Technologies
@@ -37,6 +43,13 @@
 [HTML5 - W3C](https://www.w3.org/TR/html5/)
 
 [HTML 5.1 - W3C](https://www.w3.org/TR/html51/)
+
+### JavaScript
+#### Frontend Development
+#### Backend Development
+#### Conferences
+#### People
+
 
 ## Books
 
