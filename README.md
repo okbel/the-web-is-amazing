@@ -7,6 +7,7 @@
   - [Specifications](#specifications)
   - [Guidelines](#guidelines)
   - [JavaScript](#javascript)
+    - [Core Concepts](#core-concepts)
     - [Frontend Development](#frontend-development)
     - [Backend Development](#backend-development)
     - [Conferences](#conferences)
@@ -45,6 +46,7 @@
 [HTML 5.1 - W3C](https://www.w3.org/TR/html51/)
 
 ### JavaScript
+#### Core Concepts
 #### Frontend Development
 #### Backend Development
 #### Conferences
