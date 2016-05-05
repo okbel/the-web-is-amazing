@@ -52,6 +52,16 @@
 #### Conferences
 #### People
 
+**TJ Holowaychuk** [@tjholowaychuk](https://twitter.com/tjholowaychuk)
+
+> Founder of Apex (https://apex.sh/)
+Creator of the Luna programming language, Express, Koa, Stylus, Component, Mocha, Jade, rework, node-canvas and others.
+
+
+**Dan Abramov** [@dan_abramov](https://twitter.com/dan_abramov)
+
+> Creator of Redux, React Hot Loader, React DnD. Member of [React Team](https://twitter.com/reactjs) https://twitter.com/reactjs
+
 
 ## Books
 
