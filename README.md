@@ -60,7 +60,8 @@ Creator of the Luna programming language, Express, Koa, Stylus, Component, Mocha
 
 **Dan Abramov** [@dan_abramov](https://twitter.com/dan_abramov)
 
-> Creator of Redux, React Hot Loader, React DnD. Member of [React Team](https://twitter.com/reactjs) https://twitter.com/reactjs
+> Creator of Redux, React Hot Loader, React DnD. Member of [React Team](https://twitter.com/reactjs)
+
 
 
 ## Books
