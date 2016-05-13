@@ -62,6 +62,10 @@ Creator of the Luna programming language, Express, Koa, Stylus, Component, Mocha
 
 > Creator of Redux, React Hot Loader, React DnD. Member of [React Team](https://twitter.com/reactjs)
 
+**Todd Motto** [@toddmotto](https://twitter.com/toddmotto)
+
+> Developer Advocate @Telerik. Founder of Voux. JavaScript, Angular, React, conference speaker. Developer Expert at Google, open source.[Todd Motto's Blog](https://toddmotto.com/)
+
 
 
 ## Books
