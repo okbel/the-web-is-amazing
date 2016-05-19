@@ -45,6 +45,15 @@
 
 [HTML 5.1 - W3C](https://www.w3.org/TR/html51/)
 
+##### A Word of Advice - Building the Web
+
+**Tim Berners-Lee**, W3C Director and inventor of the World Wide Web [@timberners_lee](https://twitter.com/timberners_lee)
+> The power of the Web is in its universality.
+Access by everyone regardless of disability is an essential aspect.
+
+
+
+
 ### JavaScript
 #### Core Concepts
 #### Frontend Development
