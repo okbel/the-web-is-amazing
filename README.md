@@ -55,6 +55,8 @@ Access by everyone regardless of disability is an essential aspect.
 
 **Tim Berners-Lee**
 
+[The Web is amazing - Web Standards for the Future](https://vimeo.com/110256895/)
+
 ### JavaScript
 #### Core Concepts
 #### ECMAScript
