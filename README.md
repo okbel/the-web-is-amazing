@@ -8,12 +8,14 @@
   - [Guidelines](#guidelines)
   - [JavaScript](#javascript)
     - [Core Concepts](#core-concepts)
+    - [ECMAScript](#ecmascript)
     - [Frontend Development](#frontend-development)
     - [Backend Development](#backend-development)
     - [Conferences](#conferences)
     - [People](#people)
-      
+- [Cheatsheet](#cheatsheet)
 - [Books](#books)
+
 
 ## Web Technologies
 ### Guidelines
@@ -47,15 +49,17 @@
 
 ##### A Word of Advice - Building the Web
 
-**Tim Berners-Lee**, W3C Director and inventor of the World Wide Web [@timberners_lee](https://twitter.com/timberners_lee)
 > The power of the Web is in its universality.
-Access by everyone regardless of disability is an essential aspect.
+Access by everyone regardless of disability is an essential aspect. 
 
-
-
+**Tim Berners-Lee**
 
 ### JavaScript
 #### Core Concepts
+#### ECMAScript
+##### ES6
+[ES6 Overview in 350 Bullet Points](https://ponyfoo.com/articles/es6) by Nicolás Bevacqua
+
 #### Frontend Development
 #### Backend Development
 #### Conferences
@@ -66,7 +70,6 @@ Access by everyone regardless of disability is an essential aspect.
 > Founder of Apex (https://apex.sh/)
 Creator of the Luna programming language, Express, Koa, Stylus, Component, Mocha, Jade, rework, node-canvas and others.
 
-
 **Dan Abramov** [@dan_abramov](https://twitter.com/dan_abramov)
 
 > Creator of Redux, React Hot Loader, React DnD. Member of [React Team](https://twitter.com/reactjs)
@@ -75,19 +78,24 @@ Creator of the Luna programming language, Express, Koa, Stylus, Component, Mocha
 
 > Developer Advocate @Telerik. Founder of Voux. JavaScript, Angular, React, conference speaker. Developer Expert at Google, open source.[Todd Motto's Blog](https://toddmotto.com/)
 
+**Nicolás Bevacqua** [@nzgb](https://twitter.com/nzgb)
 
+> JavaScript consultant, conference speaker, author of JavaScript Application Design. Blogger at [PonyFoo](https://ponyfoo.com)
+
+**Tim Berners-Lee** [@timberners_lee](https://twitter.com/timberners_lee)
+
+> W3C Director and inventor of the World Wide Web
+
+## Cheatsheet
+
+### NPM
+[Fix priviliges and never again use sudo with npm](https://pawelgrzybek.com/fix-priviliges-and-never-again-use-sudo-with-npm/)
 
 ## Books
-
-### Biology
-- [ ] [Genome](http://amzn.com/0060894083) *by Mark Ridley*
-- [ ] [The Selfish Gene](http://amzn.com/0199291152) *by Richard Dawkins*
 
 ### Computer Science
 - [x] [Code Complete](http://amzn.com/0735619670) *by Steve McConnell*
 - [x] [The Pragmatic Programmer](http://amzn.com/020161622X) *by Andrew Hunt, Dave Thomas*
-
-
 
 ## Maintained by
 - Belén Curcio 
