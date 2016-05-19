@@ -1,6 +1,6 @@
-# Made-Of-Knowledge 
+# The Web is Amazing
 
-> Here you will find books, resources and all the things I find interesting on the internet and beyond.
+> Everything keep the web amazing
 
 ## Table of Contents
 - [Web Technologies](#web-technologies)
@@ -36,6 +36,7 @@
 
 [JavaScript Coding Standards - Wordpress](https://make.wordpress.org/core/handbook/best-practices/coding-standards/javascript/)
 
+[qualityGuide - Nicolas Bevaqcua](https://github.com/bevacqua/js)
 
 ### Specifications
 #### HTML
