@@ -63,9 +63,8 @@ Access by everyone regardless of disability is an essential aspect.
 ##### ES6
 [ES6 Overview in 350 Bullet Points](https://ponyfoo.com/articles/es6) by Nicolás Bevacqua
 
-#### Frontend Development
-#### Backend Development
 #### Conferences
+
 #### People
 
 **TJ Holowaychuk** [@tjholowaychuk](https://twitter.com/tjholowaychuk)
