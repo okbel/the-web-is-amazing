@@ -61,11 +61,17 @@ Access by everyone regardless of disability is an essential aspect.
 #### Core Concepts
 #### ECMAScript
 ##### ES6
-[ES6 Overview in 350 Bullet Points](https://ponyfoo.com/articles/es6) by Nicolás Bevacqua
+[ES6 Overview in 350 Bullet Points](https://ponyfoo.com/articles/es6)by Nicolás Bevacqua
+
+[ECMAScript 6 equivalents in ES5](https://github.com/addyosmani/es6-equivalents-in-es5)by Addy Osmani
+(ECMAScript decided to use ECMA<year> for the specification, so ES6 would be ECMA2015)
 
 #### Conferences
 
 #### People
+
+**Addy Osmani** [@addyosmani](https://twitter.com/addyosmani)
+> Engineer at Google working on Chrome & Web Platform, creator of TodoMVC, Yeoman, Material Design Lite, Critical
 
 **TJ Holowaychuk** [@tjholowaychuk](https://twitter.com/tjholowaychuk)
 
